@@ -1,4 +1,4 @@
-[JNIBWAPI](https://github.com/JNIBWAPI/JNIBWAPI) is a project that I started as a [Google Code](https://code.google.com/archive/p/jnibwapi/) that was significantly improved by a number of contributors. I wrote the first version using sockets and then wrote a JNI version when BWAPI provided a shared-memory model. I handed off the project, and since then contributors have modified the library to use native objects between C++ and Java, and provided updates to the library for new BWAPI releases. 
+[JNIBWAPI](https://github.com/JNIBWAPI/JNIBWAPI) is a project that I started as a [Google Code](https://code.google.com/archive/p/jnibwapi/) project that was significantly improved by a number of contributors. I wrote the first version using sockets and then wrote a JNI version when BWAPI provided a shared-memory model. I handed off the project and since then contributors have modified the library to use native objects between C++ and Java, and provided updates to the library for new BWAPI releases. 
 
 # JNIBWAPI
 
